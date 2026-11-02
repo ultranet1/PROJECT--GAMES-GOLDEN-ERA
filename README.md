@@ -167,4 +167,4 @@ Once aggregated, the data highlights a handful of standout years where critics a
 
 ## 🚀 Explore Further
 
-🔗 Real dataset this project is modeled on: [Kaggle - Video Game Sales with Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
+🔗 Real dataset this project is modeled on: [Kaggle - Video Game Sales with Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings).
